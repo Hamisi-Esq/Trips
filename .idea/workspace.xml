@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="730c2f3f-7408-498e-a833-ccebc83457ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@DYN6R19214000056]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r1gA4mnSsuG4bVN5glYOfluuWk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/ninja_trips/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="730c2f3f-7408-498e-a833-ccebc83457ad" name="Default Changelist" comment="" />
+      <created>1618148862797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618148862797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="155" width="424" height="485" key="FileChooserDialogImpl" timestamp="1618151524997">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="485" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1618151524997" />
+    <state width="637" height="174" key="GridCell.Tab.0.bottom" timestamp="1618244533711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="174" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1618244533711" />
+    <state width="637" height="174" key="GridCell.Tab.0.center" timestamp="1618244533710">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="174" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1618244533710" />
+    <state width="637" height="174" key="GridCell.Tab.0.left" timestamp="1618244533710">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="174" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1618244533710" />
+    <state width="637" height="174" key="GridCell.Tab.0.right" timestamp="1618244533711">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="637" height="174" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1618244533711" />
+    <state x="172" y="32" width="1022" height="731" key="SettingsEditor" timestamp="1618228127982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="32" width="1022" height="731" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1618228127982" />
+  </component>
+</project>
