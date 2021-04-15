@@ -1,3 +1,2 @@
 # flutter-animations
-https://imgflip.com/gif/55s4rw
-All coursefiles for the Flutter Animations tutorial series on the Net Ninja youtube channel.
+[animation](https://user-images.githubusercontent.com/62157938/114874245-cfe6cf80-9e04-11eb-8e48-81d9975b4d7d.gif)
